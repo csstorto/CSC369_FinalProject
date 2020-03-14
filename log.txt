@@ -1,0 +1,36 @@
+U-F-OH NO Log File
+Presented by: Anna Barone, Ethan Chan, Cameron Storton, & Braden Wicker
+
+Tasks:
+- Researching topic ideas:
+    - Done by: Whole team 
+    - When: during week 8 & 9
+    - How much time: 1 hour/each
+- Parsing the movie file:
+    - Done by: Cameron
+    - When: 03/07/2020
+    - How much time: 2 hours
+- Parsing the sightings file:
+    - Done by: Anna and Ethan
+    - When: 03/07/2020
+    - How much time: 30 minutes
+- Calculating the averages using Scala
+    - Done by: Braden, Anna
+    - When: 03/07/2020 & 03/14/2020
+    - How much time: 2 hours
+- Getting functioning code on Hadoop FS:
+    - Done by: Ethan, Braden 
+    - When: 03/14/2020
+    - How much time: 1.5 hours
+- Creating Powerpoint:
+    - Done by: Whole Team
+    - When: 03/07/2020 & 03/14/2020
+    - How much time: 1.5 hours
+- Writing the report PDF:
+    - Done by: Whole Team
+    - When: 03/14/2020
+    - How much time: 
+- Creating log file:
+    - Done by: Anna Barone
+    - When: 03/14/2020
+    - How much time: 5 minutes
