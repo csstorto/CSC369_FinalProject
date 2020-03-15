@@ -29,7 +29,7 @@ Tasks:
 - Writing the report PDF:
     - Done by: Whole Team
     - When: 03/14/2020
-    - How much time: 
+    - How much time: 30 minutes
 - Creating log file:
     - Done by: Anna Barone
     - When: 03/14/2020
